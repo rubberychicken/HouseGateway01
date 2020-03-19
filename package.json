@@ -1,0 +1,12 @@
+{
+    "name": "HouseGateway01",
+    "description": "House Gateway No.1",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows.json",
+            "credentialsFile": "flows_cred.json"
+        }
+    }
+}
